@@ -20,7 +20,3 @@ This project uses a **sample file (`manga_sample.csv`)** for demonstration purpo
 The full dataset is not included due to its size.
 
 
-# How to Run
- **Clone this repository**
-   ```bash
-   git clone https://github.com/sa-codeinfinance/manga-tags-analysis.git
