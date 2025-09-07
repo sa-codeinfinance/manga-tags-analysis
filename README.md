@@ -6,7 +6,7 @@ The goal is to identify and visualize the most popular manga genres based on the
 
 # Project Structure
 - **data/manga_sample.csv** → Sample dataset containing manga titles and their associated tags (genres).
-- **R/analisi_manga.R** → R script that:
+- **R/manga_eng.R** → R script that:
   1. Imports and cleans the dataset
   2. Splits tags into separate rows
   3. Calculates tag frequency
